@@ -14,10 +14,9 @@
 
 
 <p style="display: flex; flex-direction: column;">
-<img src="/img/InferenceResults.jpg">
-<img src="/img/NeuralAnthropometerApproachOverview.jpg">
-<img src="/img/ShoulderWidthMaleSubject.jpg">
-<img src="/img/FemaleSubjectArmLength.jpg">
+<img src="/img/EffectOfGenderResults.png">
+<img src="/img/EffectOfPoseResults.png">
+<img src="/img/EffectOfCameraDistanceResults.png">
 </p>
 
 ## Contents
